@@ -1,2 +1,2 @@
 # C_learning
-My C repository. Programming class code.
+My C repository. Code from my C classes.
